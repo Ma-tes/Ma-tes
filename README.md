@@ -7,11 +7,10 @@ Passionate about performance, clean architecture and elegant code. With **6+ yea
 
 ## 🛠 Tech & Tools
 
-- **Languages:** C#, .NET, C  
+- **Languages:** C#, C, JavaScript, TypeScript  
 - **Areas:** System architecture, low-level programming, performance optimization  
 - **Tools & Platforms:**  
-  - .NET / ASP.NET
-  - JavaScript / TypeScript  
+  - .NET / ASP.NET 
   - OpenGL, WebGL, SDL  
   - CI/CD / DevOps workflows  
   - Git, GitHub, Azure
