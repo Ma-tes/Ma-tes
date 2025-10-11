@@ -2,7 +2,7 @@
 
 **Junior @dotnet Programmer at Stora Enso**  
 Passionate about performance, clean architecture and elegant code. With **6+ years of programming experience**.
-> I'm a huge fan of VIM editor
+> Also I'm using VIM more then 5 years.
 ---
 
 ## 🛠 Tech & Tools
