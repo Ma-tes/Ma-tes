@@ -21,5 +21,5 @@ Passionate about performance, clean architecture and elegant code. With **6+ yea
 
 ## 🌱 I’m currently
 
-- Implementing cross communication layer between C# and TypeScript, for future company rendering engine in WebGL
+- Implementing cross communication layer between C# & TypeScript, for future company rendering engine in WebGL
 - Experimenting with performance profiling & optimization
