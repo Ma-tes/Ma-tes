@@ -1,6 +1,6 @@
-### 👋 Hello, I’m **Matthew “Ma-tes” Sestaubr**
+### Hello, I’m **Matthew “Ma-tes” Sestaubr**
 
-**Junior @dotnet Programmer at [Stora Enso](https://www.storaenso.com/)**  
+**Software Engineer at [Stora Enso](https://www.storaenso.com/)**  
 Passionate about performance, clean architecture and elegant code. With **6+ years of programming experience**.
 > Also I'm using VIM more then 5 years.
 ---
