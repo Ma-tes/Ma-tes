@@ -5,7 +5,7 @@ Passionate about performance, clean architecture and elegant code. With **6+ yea
 > Also I'm using VIM more then 5 years.
 ---
 
-## 🛠 Tech & Tools
+## Tech & Tools
 
 - **Languages:** C#, C, JavaScript, TypeScript  
 - **Areas:** System architecture, low-level programming, performance optimization  
@@ -18,7 +18,7 @@ Passionate about performance, clean architecture and elegant code. With **6+ yea
 
 ---
 
-## 🌱 I’m currently
+## I’m currently
 
 - Implementing cross communication layer between C# & TypeScript, for future company rendering engine in WebGL
 - Experimenting with performance profiling & optimization
